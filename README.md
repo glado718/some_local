@@ -1,3 +1,4 @@
 #my diary 
-* attend class
-* go back home
+attend class
+learn programming
+go back home
